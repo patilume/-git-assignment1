@@ -1,1 +1,2 @@
 Stage: gitSCM
+stage: sonarqube
